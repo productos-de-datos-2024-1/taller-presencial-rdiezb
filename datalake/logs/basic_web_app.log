@@ -1,0 +1,30 @@
+2024-03-23 11:56:29,684:INFO:Starting the application
+2024-03-23 11:56:29,728:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-23 11:56:29,728:INFO:[33mPress CTRL+C to quit[0m
+2024-03-23 11:56:29,730:INFO: * Restarting with stat
+2024-03-23 11:56:31,075:INFO:Starting the application
+2024-03-23 11:56:31,089:WARNING: * Debugger is active!
+2024-03-23 11:56:31,096:INFO: * Debugger PIN: 140-320-727
+2024-03-23 11:56:37,867:INFO: * Detected change in 'C:\\Users\\rebek\\OneDrive\\Desktop\\evaluacion_pdtos_datos\\taller-presencial-rdiezb\\src\\5_basic_web_app\\app.py', reloading
+2024-03-23 11:56:38,110:INFO: * Restarting with stat
+2024-03-23 11:56:39,384:INFO:Starting the application
+2024-03-23 11:56:39,392:WARNING: * Debugger is active!
+2024-03-23 11:56:39,395:INFO: * Debugger PIN: 140-320-727
+2024-03-23 11:59:38,979:INFO: * Detected change in 'C:\\Users\\rebek\\OneDrive\\Desktop\\evaluacion_pdtos_datos\\taller-presencial-rdiezb\\src\\5_basic_web_app\\autograding.py', reloading
+2024-03-23 11:59:39,184:INFO: * Restarting with stat
+2024-03-23 11:59:40,539:INFO:Starting the application
+2024-03-23 11:59:40,550:WARNING: * Debugger is active!
+2024-03-23 11:59:40,553:INFO: * Debugger PIN: 140-320-727
+2024-03-23 12:01:29,503:INFO:127.0.0.1 - - [23/Mar/2024 12:01:29] "GET / HTTP/1.1" 200 -
+2024-03-23 12:01:29,674:INFO:127.0.0.1 - - [23/Mar/2024 12:01:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-23 12:03:28,457:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:03:35,238:INFO:Prediction: 155849.9
+2024-03-23 12:03:35,239:INFO:127.0.0.1 - - [23/Mar/2024 12:03:35] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:18,407:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:16:18,415:INFO:Prediction: 155849.9
+2024-03-23 12:16:18,417:INFO:127.0.0.1 - - [23/Mar/2024 12:16:18] "POST / HTTP/1.1" 200 -
+2024-03-23 12:16:38,289:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 2.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-03-23 12:16:38,297:INFO:Prediction: 171805.74
+2024-03-23 12:16:38,299:INFO:127.0.0.1 - - [23/Mar/2024 12:16:38] "POST / HTTP/1.1" 200 -
+2024-03-23 12:41:17,456:INFO:127.0.0.1 - - [23/Mar/2024 12:41:17] "GET / HTTP/1.1" 200 -

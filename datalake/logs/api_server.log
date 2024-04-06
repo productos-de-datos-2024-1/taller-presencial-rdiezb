@@ -1,0 +1,84 @@
+2024-04-06 07:34:26,877:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:34:26,877:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:34:26,879:INFO: * Restarting with stat
+2024-04-06 07:34:27,652:WARNING: * Debugger is active!
+2024-04-06 07:34:27,654:INFO: * Debugger PIN: 140-320-727
+2024-04-06 07:53:32,104:INFO: * Detected change in 'C:\\Users\\rebek\\OneDrive\\Desktop\\evaluacion_pdtos_datos\\taller-presencial-rdiezb\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 07:53:32,241:INFO: * Restarting with stat
+2024-04-06 07:53:33,454:WARNING: * Debugger is active!
+2024-04-06 07:53:33,457:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:01:23,337:INFO: * Detected change in 'C:\\Users\\rebek\\OneDrive\\Desktop\\evaluacion_pdtos_datos\\taller-presencial-rdiezb\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:01:23,499:INFO: * Restarting with stat
+2024-04-06 08:01:24,687:WARNING: * Debugger is active!
+2024-04-06 08:01:24,691:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:04:09,296:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:04:09,296:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:04:09,299:INFO: * Restarting with stat
+2024-04-06 08:04:10,029:WARNING: * Debugger is active!
+2024-04-06 08:04:10,031:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:04:50,807:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:04:50,807:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:04:50,808:INFO: * Restarting with stat
+2024-04-06 08:04:51,464:WARNING: * Debugger is active!
+2024-04-06 08:04:51,465:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:14:27,733:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:14:27,733:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:14:27,735:INFO: * Restarting with stat
+2024-04-06 08:14:28,820:WARNING: * Debugger is active!
+2024-04-06 08:14:28,823:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:20:01,194:INFO: * Detected change in 'C:\\Users\\rebek\\OneDrive\\Desktop\\evaluacion_pdtos_datos\\taller-presencial-rdiezb\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:20:01,353:INFO: * Restarting with stat
+2024-04-06 08:20:02,110:WARNING: * Debugger is active!
+2024-04-06 08:20:02,112:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:22:40,828:INFO: * Detected change in 'C:\\Users\\rebek\\OneDrive\\Desktop\\evaluacion_pdtos_datos\\taller-presencial-rdiezb\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:22:41,004:INFO: * Restarting with stat
+2024-04-06 08:22:41,819:WARNING: * Debugger is active!
+2024-04-06 08:22:41,822:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:22:42,927:INFO: * Detected change in 'C:\\Users\\rebek\\OneDrive\\Desktop\\evaluacion_pdtos_datos\\taller-presencial-rdiezb\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:22:43,049:INFO: * Restarting with stat
+2024-04-06 08:22:43,995:WARNING: * Debugger is active!
+2024-04-06 08:22:43,998:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:23:47,388:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:24:30,360:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:24:30,363:INFO:127.0.0.1 - - [06/Apr/2024 08:24:30] "POST / HTTP/1.1" 200 -
+2024-04-06 08:24:31,809:INFO: * Detected change in 'C:\\Users\\rebek\\OneDrive\\Desktop\\evaluacion_pdtos_datos\\taller-presencial-rdiezb\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:24:32,046:INFO: * Restarting with stat
+2024-04-06 08:24:32,868:WARNING: * Debugger is active!
+2024-04-06 08:24:32,871:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:25:46,169:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:25:46,169:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:25:46,170:INFO: * Restarting with stat
+2024-04-06 08:25:47,039:WARNING: * Debugger is active!
+2024-04-06 08:25:47,042:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:26:37,876:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:26:38,864:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:26:38,864:INFO:127.0.0.1 - - [06/Apr/2024 08:26:38] "POST / HTTP/1.1" 200 -
+2024-04-06 08:26:42,745:INFO: * Detected change in 'C:\\Users\\rebek\\OneDrive\\Desktop\\evaluacion_pdtos_datos\\taller-presencial-rdiezb\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:26:43,008:INFO: * Restarting with stat
+2024-04-06 08:26:43,673:WARNING: * Debugger is active!
+2024-04-06 08:26:43,675:INFO: * Debugger PIN: 140-320-727
+2024-04-06 08:30:44,985:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:30:45,566:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:30:45,566:INFO:127.0.0.1 - - [06/Apr/2024 08:30:45] "POST / HTTP/1.1" 200 -
+2024-04-06 09:04:49,137:INFO:127.0.0.1 - - [06/Apr/2024 09:04:49] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:04:49,290:INFO:127.0.0.1 - - [06/Apr/2024 09:04:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:04:57,219:ERROR:127.0.0.1 - - [06/Apr/2024 09:04:57] code 400, message Bad request version ('\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00')
+2024-04-06 09:04:57,220:INFO:127.0.0.1 - - [06/Apr/2024 09:04:57] "[35m[1m\x16\x03\x01\x02:\x01\x00\x026\x03\x03î9NÊ.\x91&lÃrT<uÁ@Alh*\x06\x93íË¨ç\x8fÞÎØì(Ñ ÷{ó\x12»º\x84 zÞ§O³=M\x12ÔDiÉ;"w;Ö\x0fh\x84\x1f\x10\x9aY\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01Í::\x00\x00þ\x0d\x01\x1a\x00\x00\x01\x00\x01\x98\x00 ¯ä\x8d\x0bFæD¼s\x88#K\x9c\x82\x85ýþ\x0f±¼\x93¤öM\x8f¥8áØÌmR\x00ð\x12W\x9dm\x1c©É7é¬rÎX\x7fiöC"ö\x88Âr\x9d\x0d\x82÷`\x0e\x07÷Ü³¥\x04[\x92Dðý3\x9ac§ü=Âîô\x1f×ÕýdI^ÈhÐ¡F+1ä\x88\x99D\x05E4oz¡6I?Ö <»N'Ä\x92ëÕ<¨\x00à\x8e\x17WàLn\x12®Sì7\x0dÆM¦³\x13±\x98^eE\x8cª\x0ddBÉT\x03Ì\x04óEÑ\x19*\x93\x0bsäô+Àß`{\x05®$Ï^¥3¿¯\x8bÓìÊã_ÞÞhC\x13ê-\x06+¸\x1a­y\x9f×v®¶OF\x14\x8e¤Ò\x8b}\x05ÛyÁ\x1czY\x077ýÄè!(¿>±\x1e\x10_l\x7f>º4q\x0fi~±ü\x03\x1bT®®\x13x¸x½²C­ùÓE«ãîuIvmæ÷`»bÚX\x8b¼\x00\x0b\x00\x02\x01\x00Di\x00\x05\x00\x03\x02h2\x00+\x00\x07\x06\x8a\x8a\x03\x04\x03\x03\x00[0m" HTTPStatus.BAD_REQUEST -
+2024-04-06 09:04:57,221:ERROR:127.0.0.1 - - [06/Apr/2024 09:04:57] code 400, message Bad request version ('\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00')
+2024-04-06 09:04:57,221:INFO:127.0.0.1 - - [06/Apr/2024 09:04:57] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03a\x11\x16\x1c+mÒ³Öç^ì\x99}\x82%\x95@\x88\x0d\x9d6\x98³ê3\x96\x95\x1e7Zú "\x98Þ\x85SÅÍâÈfÊÌ\x8cÐ°ÌSèj§³Í\x88+\x96\x95¼\x15¢]â,\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00ÿ\x01\x00\x01\x00\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+2024-04-06 09:04:57,223:ERROR:127.0.0.1 - - [06/Apr/2024 09:04:57] code 400, message Bad request version ('9¶qcéyú')
+2024-04-06 09:04:57,224:INFO:127.0.0.1 - - [06/Apr/2024 09:04:57] "[35m[1m\x16\x03\x01\x02:\x01\x00\x026\x03\x03Çøë\x9f\x19±ÎúÅåe\x1bo\x9c,bÛã*~B\x0b*?\x0d8ñd|\x8c·H 7+L\x01Æ\x1c§_·öSÍÙÙ\x83ºÎíÙã¯yÀY\x00]Kc8¥\x07Þ\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01Íªª\x00\x00\x00\x1b\x00\x03\x02\x00\x02\x00-\x00\x02\x01\x01\x00\x10\x00\x0e\x00\x0c\x02h2\x08http/1.1Di\x00\x05\x00\x03\x02h2þ\x0d\x01\x1a\x00\x00\x01\x00\x01¿\x00 ò®\x19\x17èwª\x89\x8f¹h\x93\x07.8{^á&¢LkOLé\x94\x9d\x80\x84$ÏW\x00ð\x94X\x82\x9eå\x13ãje¢\x01i=Ë\x99K\x9dlû\x10I=N¤'6n\x06\x9cù\x8a\x91\x80\x9eH¾û\x80­\x19ÔV_\x80¹#\x9añMC 9¶qcéyú[0m" HTTPStatus.BAD_REQUEST -
+2024-04-06 09:04:57,225:ERROR:127.0.0.1 - - [06/Apr/2024 09:04:57] code 400, message Bad request version ("\x80Ö\x8d\x08«ø»UñÞÅÔE\x07ía'G§¬ià")
+2024-04-06 09:04:57,225:INFO:127.0.0.1 - - [06/Apr/2024 09:04:57] "[35m[1m\x16\x03\x01\x02:\x01\x00\x026\x03\x03\x1aäÃbðT\x04üX²±Ç\x86oAÄª\x91\x0eÁD\x12\x14\x97¡þ39ÆR'Q [Jsî\x9flªoyö\x94â´\x98ÝW\x19OY \x10p\x88X<Ù$\x82*t.Û\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01Íêê\x00\x00\x00\x17\x00\x00\x00#\x00\x00\x00-\x00\x02\x01\x01\x003\x00+\x00)ZZ\x00\x01\x00\x00\x1d\x00 ÃÝø¡\x08ÙLzª \x84yw^\x85\x84(\x19ö»û\x89\x1f¸7\x97b×\x04¦\x14\x0eþ\x0d\x01\x1a\x00\x00\x01\x00\x01Y\x00 \x99Çô5Tß\x1efG\x94\x10¦\x0eD0÷N\x91bqc}]¥Ï«E±íJ\x90`\x00ð\x05\x10óÏI×tKz¬|É\x83JNeY\x9e\x1eî2\x08\x8fÖØ\x1eUê:)\x845\x88\x12\x0c§\x16vò\x13_9-\x96Vì\x96¦Z\\¥Å;\x86,ÓS(\x95 ïwä\x15B\x03\x92©ÿ\x03\x84íj\x8aù]\x17ó\x0e|ë\x82x\x9déï\x9b\x08×4\\O/*\x94ÊÖ\x00í:O\x97j Å \x80\x130Új\x09\x02-\x1cz\x1a©¼è\x92\x13d\x0eÙ\x8có\x1b/É¬/fUÚ\x85©m\x7f\x9eâÌ\x16|¡\x8ddm\x7f·\x80YJ½CëÔ\x83ºØ\x1e\x1e\x80Ö\x8d\x08«ø»UñÞÅÔE\x07ía'G§¬ià[0m" HTTPStatus.BAD_REQUEST -
+2024-04-06 09:06:46,962:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 09:06:46,965:INFO:Prediction: [1605832.10562042]
+2024-04-06 09:06:46,966:INFO:127.0.0.1 - - [06/Apr/2024 09:06:46] "POST / HTTP/1.1" 200 -
+2024-04-06 09:13:40,544:INFO:127.0.0.1 - - [06/Apr/2024 09:13:40] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:26:49,913:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:26:49,917:INFO:Prediction: [155849.90294016]
+2024-04-06 09:26:49,917:INFO:127.0.0.1 - - [06/Apr/2024 09:26:49] "POST / HTTP/1.1" 200 -
