@@ -59,20 +59,20 @@ jobs:
         command: python3 src/5_basic_web_app/autograding.py
         timeout: 10
         max-score: 1
-    - name: Test 6a (API client)
-      id: test-6a-api-client
+    - name: Test 6a (API server)
+      id: test-6a-api-server
       uses: education/autograding-command-grader@v1
       with:
-        test-name: Test 6a (API client)
+        test-name: Test 6a (API server)
         setup-command: ''
         command: python3 src/6a_api_server/autograding.py
         timeout: 10
         max-score: 1
-    - name: Test 6b (API server)
-      id: test-6b-api-server
+    - name: Test 6b (API client)
+      id: test-6b-api-client
       uses: education/autograding-command-grader@v1
       with:
-        test-name: Test 6b (API server)
+        test-name: Test 6b (API client)
         setup-command: ''
         command: python3 src/6b_api_client/autograding.py
         timeout: 10
