@@ -65,7 +65,7 @@ jobs:
       with:
         test-name: Test 6a (API client)
         setup-command: ''
-        command: python3 src/6a_api_client/autograding.py
+        command: python3 src/6a_api_server/autograding.py
         timeout: 10
         max-score: 1
     - name: Test 6b (API server)
@@ -74,7 +74,7 @@ jobs:
       with:
         test-name: Test 6b (API server)
         setup-command: ''
-        command: python3 src/6b_api_server/autograding.py
+        command: python3 src/6b_api_client/autograding.py
         timeout: 10
         max-score: 1
     - name: Test 7a (Docker API server)
